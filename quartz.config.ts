@@ -1,3 +1,4 @@
+import { ContentPage } from "./quartz/plugins/emitters/contentPage"
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 
@@ -77,7 +78,7 @@ const config: QuartzConfig = {
     emitters: [
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
-      Plugin.ContentPage(),
+      Plugin.ContentPage(),({ prettyUrls: true }),
       Plugin.FolderPage(),
       Plugin.TagPage(),
       Plugin.ContentIndex({
