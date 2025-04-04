@@ -2,6 +2,7 @@
 author: Exeunt
 date: 2024-12-14
 ---
+
 - It is not a multiverse that we live in, but a plurally articulated universe (pluriverse). 
 - This pluriverse is dense with living things, defined by potentially infinite modes of being. (The other modes of being are known to some of us as the expressions of "inorganic life.") 
 - A given articulation of the universe is expressed from networks of beings, relations between them in their modes. 

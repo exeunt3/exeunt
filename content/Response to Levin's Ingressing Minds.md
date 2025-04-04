@@ -1,3 +1,10 @@
+---
+author: Exeunt
+date: 2025-03-14
+tags:
+  - physics
+---
+
 ## Are Physical Systems Haunted by TOET?
 
 **Tl;Dr** *This brief, nonspecialist response proposes a naturalistic teleology that explains the proposed "ingressions" of "patterns" into the development of biological and physical systems. In this telling, the bootstrap capacity of a transcendental object at the end of time (McKenna) acts as a unified source of constraint on morphological histories. Rather than agential forms, "patterns" become knots of mechanical necessity (or perhaps Novikovian self-consistency) in a class of worlds shaped by self-causing systems.*

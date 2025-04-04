@@ -14,6 +14,7 @@ tags:
   - arturo-escobar
   - knowledge-commons-protocol
 ---
+
 ![](https://images.mirror-media.xyz/publication-images/UeIsFzVc1hFyaRbhtBg9q.jpeg?height=512&width=1024)
 _First published on the [Pluriverse Mirror](https://mirror.xyz/thepluriverse.eth/b0LgQMmuAu1Vpw-OL3LpKxo3hxOPWlVLrPkQF90g7Qw)._
 
