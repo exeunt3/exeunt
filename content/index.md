@@ -1,6 +1,7 @@
 ---
 title: Exeunt
 ---
+
 I also use GPT to emphasize that we live in a new age: where my at times lyrical or idiosyncratic exploratory prose was seen as a shortcoming, it is now clearly a virtue, an assertion that prose is about the work of thinking, and automation has all of the skills to come in and modulate on that thought-production in as much simplicity or nuance (or further thinking) as needed.
 
 ### Regenerative Design in the Many Worlds
