@@ -1,15 +1,11 @@
 ---
-author: Exeunt
-date: 2022-10-01
-tags:
-  - physics
-  - hugh-everett
-  - max-tegmark
-  - sean-carroll
-  - many-worlds
-  - kevin-a-carson
-  - knowledge-commons-protocol
+title: "Regenerative Design in the Many Worlds"
+date: "2022-10-01"
+summary: "Another example with a later date so it appears first. Replace this with your own words."
+banner: "/images/manyworlds.png"
+draft: false
 ---
+
 ![](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*dvDqphxKMvdsKkClLedOCw.jpeg)
 *Joos van Craesbeeck, The Temptation of Saint Anthony (detail).*
 

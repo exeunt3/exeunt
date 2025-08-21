@@ -1,6 +1,9 @@
 ---
-title: We Are the Neotechnics!
-date: 2024-02-08
+title: "We Are the Neotechnics!"
+date: "2024-02-08"
+summary: "Another example with a later date so it appears first. Replace this with your own words."
+banner: "/images/exeunt.jpg"
+draft: false
 ---
 
 *Tl;dr* *As a corollary and expansion to Vitalik Buterin's philosophy of technological optimism (d/acc), we invoke Lewis Mumford's **neotechnic revolution**, a transition to decentralized power structures catalyzed by alternatives to fossil fuels. Mumford envisions a technologically advanced form of the medieval workshop and horticulture based production modes, a decentralized manufacturing apparatus which we argue aligns with both Vitalik's defensive technology thesis and the web3 project at large. We end by proposing a Quadratic Funding round to catalyze research and development around **web3**x**decentralized production**.*

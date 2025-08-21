@@ -1,7 +1,9 @@
 ---
-title: Open Protocols, Extitutions, Protocol Undergrounds
-date: 2025-07-18
-author: exeunt
+title: "Open Protocols, Extitutions, Protocol Undergrounds"
+date: "2025-07-18"
+summary: ""
+banner: "/images/exeunt.jpg"
+draft: false
 ---
 
 ### An Attempt at Some Definitions

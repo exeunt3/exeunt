@@ -1,7 +1,11 @@
 ---
-date: 2023-07-28
-author: Exeunt, Vengist
+title: "Friends of the Outside"
+date: "2023-07-28"
+summary: ""
+banner: "/images/exeunt.jpg"
+draft: false
 ---
+
 **Control,**
 
 **Substrates, &**

@@ -1,7 +1,11 @@
 ---
-author: Exeunt
-date: 2024-03-26
+title: "Haptic Vision and Network State at ETH Denver"
+date: "2024-03-26"
+summary: ""
+banner: "/images/haptic.jpeg"
+draft: false
 ---
+
 **As the ordeal went on, it became clear to certain of these balloonists, observing from above and poised ever upon a cusp of mortal danger, how much the modern State depended for its survival on maintaining a condition of _permanent siege_—through the systematic encirclement of populations, the starvation of bodies and spirits, the relentless degradation of civility until citizen was turned against citizen, even to the point of committing atrocities… When the sieges ended, the balloonists chose to fly on, free now of the political delusions that reigned more than ever on the ground, pledged solemnly only to one another, proceeding as if under a world-wide, never-ending state of siege.**
 
 Thomas Pynchon, _Against the Day_

@@ -1,10 +1,9 @@
 ---
-author: Exeunt
-tags:
-  - bio
-  - exeunt
-  - knowledge-commons-protocol
-date: 2020-01-20
+title: "about Exeunt"
+date: "2020-01-20"
+summary: ""
+banner: "/images/exeunt.jpg"
+draft: false
 ---
 **Exeunt** is an underground researcher and design theorist. Their work uses archival research, field investigation and applied philosophy to explore the economic and organizational patterns of extitutional spaces, both in urban and digital settings. Their major concerns include posthuman social organization, mutualist economics, direct democracy and open protocolization as features of non-institutional life. Aside from writing produced alone and in collaboration with the **Open Protocol Research Group**, they have written copy and co-organized events with **Ethereal Forest**, including the *General Forum on Ethereum Localism* and [*Local DAO Summer*](https://www.youtube.com/watch?v=Z7ORtiFmcZQ&list=PLEBjOB3CDGW0sQ-zm1rFDo_0P1OpbFeB0).
 

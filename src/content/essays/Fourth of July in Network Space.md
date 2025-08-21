@@ -1,14 +1,11 @@
 ---
-author: Exeunt
-date: 2023-07-04
-tags:
-  - freedom
-  - history
-  - england
-  - etymology
-  - pdxdao
-  - knowledge-commons-protocol
+title: "Fourth of July in Network Space"
+date: "2023-07-04"
+summary: ""
+banner: "/images/lichfield.jpeg"
+draft: false
 ---
+
  ![](https://images.mirror-media.xyz/publication-images/uYylR1v9RkcRBNP4lQfPn.jpeg?height=1678&width=3355)
 
 {Freedom} is certainly not the right to own the economic, social, political, or cultural capital in order to dominate others and trade their happiness in a monopolistic market. Freedom is the process by which you develop a practice for being unavailable for servitude.

@@ -1,7 +1,11 @@
 ---
-author: Exeunt
-date: 2025-02-16
+title: "Response to Levin's Ingressing Minds"
+date: "2025-02-16"
+summary: "Another example with a later date so it appears first. Replace this with your own words."
+banner: "/images/exeunt.jpg"
+draft: false
 ---
+
 ## Are Physical Systems Haunted by TOET?
 
 **Tl;Dr** *This brief, nonspecialist response proposes a naturalistic teleology that explains the proposed "ingressions" of "patterns" into the development of biological and physical systems. In this telling, the bootstrap capacity of a transcendental object at the end of time (McKenna) acts as a unified source of constraint on morphological histories. Rather than agential forms, "patterns" become knots of mechanical necessity (or perhaps Novikovian self-consistency) in a class of worlds shaped by self-causing systems.*

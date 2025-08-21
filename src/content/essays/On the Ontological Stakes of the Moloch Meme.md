@@ -1,19 +1,11 @@
 ---
-author: Exeunt
-date: 2023-05-02
-tags:
-  - physics
-  - fred-moten
-  - saidiya-hartman
-  - moloch
-  - pluriverse
-  - owocki
-  - meditations-on-moloch
-  - police-violence
-  - open-ended-intelligence
-  - arturo-escobar
-  - knowledge-commons-protocol
+title: "On the Ontological Stakes of the Moloch Meme"
+date: "2023-05-02"
+summary: "Another example with a later date so it appears first. Replace this with your own words."
+banner: "/images/ontologicalstakes.jpg"
+draft: false
 ---
+
 ![](https://images.mirror-media.xyz/publication-images/UeIsFzVc1hFyaRbhtBg9q.jpeg?height=512&width=1024)
 _First published on the [Pluriverse Mirror](https://mirror.xyz/thepluriverse.eth/b0LgQMmuAu1Vpw-OL3LpKxo3hxOPWlVLrPkQF90g7Qw)._
 

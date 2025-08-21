@@ -1,15 +1,11 @@
 ---
-author: Exeunt
-date: 2024-03-25
-tags:
-  - cybernetics
-  - urban
-  - pluriverse
-  - autotheory
-  - portland
-  - localism
-  - knowledge-commons-protocol
+title: "Concrete Pluralism"
+date: "2024-03-25"
+summary: ""
+banner: "/images/concretepluralism.png"
+draft: false
 ---
+
 ![](https://images.mirror-media.xyz/publication-images/zcmT-YWMW3S-3BIQ9XNzi.png?height=555&width=1110)
 
 “A taste for the living concrete and for a plural universe.”

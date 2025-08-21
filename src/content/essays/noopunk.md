@@ -1,6 +1,9 @@
 ---
-author: Exeunt
-date: 2025-07-26
+title: "Noöpunk"
+date: "2025-07-26"
+summary: ""
+banner: "/images/noopunk.png"
+draft: false
 ---
 
 ![](https://pbs.twimg.com/media/Gw0MdL1aAAATaV8?format=jpg&name=large)

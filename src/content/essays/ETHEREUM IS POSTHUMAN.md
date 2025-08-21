@@ -1,7 +1,11 @@
 ---
-date: 2024-11-30
-author: Exeunt
+title: "Ethereum is Posthuman"
+date: "2024-11-30"
+summary: ""
+banner: "/images/posthuman.jpg"
+draft: false
 ---
+
 ## Notes for a Marketing Aesthetic
 
 *“The very nature of materiality is an entanglement. Matter itself is always already open to, or rather entangled with, the "Other." The intra-actively emergent "parts" of phenomena are coconstituted. Not only subjects but also objects are permeated through and through with their entangled kin; the other is not just in one's skin, but in one's bones, in one's belly, in one's heart, in one's nucleus, in one's past and future. This is as true for elec/trons as it is for brittlestars as it is for the differentially constituted human . ."*

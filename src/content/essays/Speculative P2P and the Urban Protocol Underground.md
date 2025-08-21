@@ -1,6 +1,9 @@
 ---
-author: Exeunt
-date: 2025-02-20
+title: "Speculative P2P and the Urban Protocol Underground"
+date: "2025-02-20"
+summary: "Another example with a later date so it appears first. Replace this with your own words."
+banner: "/images/exeunt.jpg"
+draft: false
 ---
 ### Speculative P2P and the Urban Protocol Underground: An Update on the Open Protocol Research Group
 
