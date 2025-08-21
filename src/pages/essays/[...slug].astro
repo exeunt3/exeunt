@@ -7,7 +7,7 @@ const { Content, frontmatter } = await Astro.props;
     <div class="banner">{frontmatter.banner && <img src={frontmatter.banner} alt="" />}</div>
     <div class="eyebrow">{new Date(frontmatter.date).toLocaleDateString(undefined, { year:'numeric', month:'long', day:'numeric' })}</div>
     <h1>{frontmatter.title}</h1>
-    <p class="intro">{frontmatter.summary}</p>
+    {frontmatter.summary && <p class="intro">{frontmatter.summary}</p>}
     <hr class="hairline" />
     <Content />
   </article>
